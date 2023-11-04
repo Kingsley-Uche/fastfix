@@ -1,0 +1,7 @@
+						.contain{min-height:200px;}
+                      	a:hover{background-color:orange; color: white; border-radius:5%;}
+                      	#log:hover{background-color:green; color:white;}
+                      	div{background-color:rgba(235,239,202,0.3);border:1px solid red;}
+                      	img{border-radius:5%}
+                        h3,span{color:black}
+                        
